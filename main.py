@@ -1,4 +1,4 @@
 print("pokus")
 print("přidání změny")
 
-print("pokračování")
+print("tak jsem něco smazala, no a co :)")
